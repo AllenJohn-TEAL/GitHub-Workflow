@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37301.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHub Workflow", "GitHub Workflow\GitHub Workflow.csproj", "{221DAE50-5E3D-47A5-B5A6-306EF4B605D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221DAE50-5E3D-47A5-B5A6-306EF4B605D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221DAE50-5E3D-47A5-B5A6-306EF4B605D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221DAE50-5E3D-47A5-B5A6-306EF4B605D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221DAE50-5E3D-47A5-B5A6-306EF4B605D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA58B06D-EF26-4170-9317-64D18B9F7BC6}
+	EndGlobalSection
+EndGlobal
