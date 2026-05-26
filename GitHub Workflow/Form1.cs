@@ -21,5 +21,10 @@ namespace GitHub_Workflow
         {
             Console.WriteLine("Added master branch");
         }
+
+        public void Branch1_fn()
+        {
+            Console.WriteLine("Added branch1");
+        }
     }
 }
